@@ -7,8 +7,8 @@ Options +FollowSymlinks
 RewriteEngine on
 
 <!-- Règles de réécriture d'url -->
-RewriteRule ^accueil-La-Panthère$ https://mr-b-pro.github.io/Mr-B-Pro-La-Panthere/ (L)
-RewriteRule ^contact-La-Panthère$ https://mr-b-pro.github.io/Mr-B-Pro-La-Panthere/contact.html (L)
+RewriteRule ^accueil-La-Panthère$ mr-b-pro.github.io/Mr-B-Pro-La-Panthere/ (L)
+RewriteRule ^contact-La-Panthère$ mr-b-pro.github.io/Mr-B-Pro-La-Panthere/contact.html (L)
 
 
 <!-- Les Expire Headers  -->
